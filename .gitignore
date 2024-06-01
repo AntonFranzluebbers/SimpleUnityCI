@@ -35,3 +35,4 @@ tasks/
 unity_projects/
 projects/
 logs/
+.env
